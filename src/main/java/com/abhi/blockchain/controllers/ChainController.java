@@ -1,6 +1,6 @@
 package com.abhi.blockchain.controllers;
 
-import com.abhi.blockchain.services.Block;
+import com.abhi.blockchain.services.blockchain.Block;
 import com.abhi.blockchain.services.ChainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
